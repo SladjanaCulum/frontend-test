@@ -1,8 +1,7 @@
 import React from "react";
 import "./Search.css";
 
-export const Search = ({setSearchTerm}) => {
-    
+export const Search = ({ setSearchTerm }) => {
   return (
     <div className="navbar borderBottom">
       <div className="container-fluid">

@@ -18,11 +18,13 @@
   padding-bottom: 4px;
 }
 
-
-
 .button {
   background-color: #cd9d8d;
   padding: 0;
   width: fit-content;
-  
+}
+
+.newButton {
+  width: 70px;
+  text-align: center;
 }
