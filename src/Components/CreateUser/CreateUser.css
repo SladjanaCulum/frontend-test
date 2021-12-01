@@ -1,0 +1,27 @@
+.style {
+  margin: 0 auto;
+  padding: 10px;
+  font-size: 20px;
+  background-color: #cd9d8d;
+  color: white;
+  width: 50%;
+}
+
+button {
+  background-color: #8f6658;
+  width: 100%;
+  color: white !important;
+}
+.youSureBubble {
+  display: none;
+  position: absolute;
+  top: 50%;
+  right: 45%;
+  max-width: 30em;
+  background-color: #8f6658;
+  padding: 5px 10px;
+  font-size: 1.25em;
+  border-radius: 1rem;
+  box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.3),
+    0 0.0625rem 0.125rem rgba(0, 0, 0, 0.2);
+}

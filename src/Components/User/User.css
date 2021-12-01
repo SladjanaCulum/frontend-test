@@ -1,0 +1,28 @@
+.content-table {
+  width: 86%;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  margin-top: 10px;
+}
+
+.listElementReports {
+  background-color: #cd9d8d;
+  color: white;
+  text-align: center;
+}
+.listElementReports:hover {
+  background-color: #8f6658;
+}
+.listElementReports td {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+
+
+.button {
+  background-color: #cd9d8d;
+  padding: 0;
+  width: fit-content;
+  
+}

@@ -1,0 +1,20 @@
+.inputWithoutBorder {
+    border: none;
+    border-radius: 10px;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+  }
+  
+  .formBorder {
+    margin-left: 85px;
+    border: 1px solid rgb(201, 199, 199);
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 3px;
+    background-color: white;
+  }
+  
+i {
+    color: black;
+}

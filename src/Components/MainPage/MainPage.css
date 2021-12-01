@@ -1,0 +1,19 @@
+.paddingNav {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  background-color: #cd9d8d;
+}
+button {
+  margin: 5px;
+  border: none;
+  background-color: #cd9d8d;
+  width: 100%;
+  color: white;
+}
+
+
+.border {
+  border-bottom: 1px black solid;
+}
